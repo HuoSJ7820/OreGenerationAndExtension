@@ -1,0 +1,25 @@
+## CHANGE this to the name of your plugin.
+name: OreGeneration
+
+## CHANGE this to your username.
+author: WuMie
+
+## CHANGE this to a meaninful but short description of your plugin.
+description: Ore
+
+## CHANGE this to the path of the class that extends JavaPlugin.
+main: cn.wumie.slimefun.OreGeneration
+
+## You can change this to link to your website or repository. You can also remove this line if you want to.
+website: null
+
+## This value is automatically replaced by the version specified in your pom.xml file.
+## Do not change this.
+version: 1.0
+
+## This is the minimum minecraft version required to run your plugin.
+api-version: 1.16
+
+## This is required and marks Slimefun as a plugin dependency.
+depend:
+- Slimefun

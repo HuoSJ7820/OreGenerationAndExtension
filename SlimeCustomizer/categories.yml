@@ -1,0 +1,19 @@
+kwscqtz:
+  category-name: '&b矿物生成器拓展'
+  category-item: STONE
+  type: nested
+s1_kwsc:
+  parent: kwscqtz
+  category-name: '&e加强版矿物生成器'
+  category-item: DIAMOND_BLOCK
+  type: sub
+s2_kwsc:
+  parent: kwscqtz
+  category-name: '&e原版矿物生成器补充'
+  category-item: DIAMOND
+  type: sub
+s3_kwsc:
+  parent: kwscqtz
+  category-name: '&e粘液科技矿物生成器'
+  category-item: IRON_INGOT
+  type: sub

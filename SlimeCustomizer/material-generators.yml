@@ -1,0 +1,1061 @@
+# 阅读wiki获取更多信息: https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/Material-Generators
+JQBMTSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版煤炭生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: COAL_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+  output:
+    tick-rate: 8
+    type: VANILLA
+    id: COAL_BLOCK
+    amount: 1
+JQBHSSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版红石生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: REDSTONE_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_REDSTONE
+      amount: 1
+  output:
+    tick-rate: 10
+    type: VANILLA
+    id: REDSTONE_BLOCK
+    amount: 1
+JQBTSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版铁生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_IRON
+      amount: 1
+  output:
+    tick-rate: 12
+    type: VANILLA
+    id: IRON_BLOCK
+    amount: 1
+JQBJSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版金生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: GOLD_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+  output:
+    tick-rate: 16
+    type: VANILLA
+    id: GOLD_BLOCK
+    amount: 1
+JQBZSSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版钻石生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: DIAMOND_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_DIAMOND
+      amount: 1
+  output:
+    tick-rate: 32
+    type: VANILLA
+    id: DIAMOND_BLOCK
+    amount: 1
+JQBXJHJSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版下界合金生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: NETHERITE_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_NETHERITE
+      amount: 1
+  output:
+    tick-rate: 72
+    type: VANILLA
+    id: NETHERITE_BLOCK
+    amount: 1
+JQBLBSSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版绿宝石生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: EMERALD_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_EMERALD
+      amount: 1
+  output:
+    tick-rate: 48
+    type: VANILLA
+    id: EMERALD_BLOCK
+    amount: 1
+JQBQJSSCQ:
+  category: s1_kwsc
+  item-name: "&b加强版青金石生成器"
+  item-lore:
+  - "&7直接产生块"
+  block-type: LAPIS_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_LAPIS
+      amount: 1
+  output:
+    tick-rate: 14
+    type: VANILLA
+    id: LAPIS_BLOCK
+    amount: 1
+TDSCQ:
+  category: s2_kwsc
+  item-name: "&e铜锭生成器"
+  item-lore:
+  - "&7生成铜锭"
+  block-type: COPPER_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: COPPER_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: STONE
+      amount: 1
+    3:
+      type: VANILLA
+      id: COPPER_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: STONE
+      amount: 1
+    5:
+      type: VANILLA
+      id: NETHER_STAR
+      amount: 1
+    6:
+      type: VANILLA
+      id: STONE
+      amount: 1
+    7:
+      type: VANILLA
+      id: COPPER_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: STONE
+      amount: 1
+    9:
+      type: VANILLA
+      id: COPPER_BLOCK
+      amount: 1
+  output:
+    tick-rate: 12
+    type: VANILLA
+    id: COPPER_INGOT
+    amount: 1
+ZSJSCQ:
+  category: s2_kwsc
+  item-name: "&e紫水晶生成器"
+  item-lore:
+  - "&7生成紫水晶"
+  block-type: AMETHYST_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: VANILLA
+      id: AMETHYST_BLOCK
+      amount: 1
+    2:
+      type: VANILLA
+      id: CALCITE
+      amount: 1
+    3:
+      type: VANILLA
+      id: AMETHYST_BLOCK
+      amount: 1
+    4:
+      type: VANILLA
+      id: CALCITE
+      amount: 1
+    5:
+      type: VANILLA
+      id: NETHER_STAR
+      amount: 1
+    6:
+      type: VANILLA
+      id: CALCITE
+      amount: 1
+    7:
+      type: VANILLA
+      id: AMETHYST_BLOCK
+      amount: 1
+    8:
+      type: VANILLA
+      id: CALCITE
+      amount: 1
+    9:
+      type: VANILLA
+      id: AMETHYST_BLOCK
+      amount: 1
+  output:
+    tick-rate: 16
+    type: VANILLA
+    id: AMETHYST_SHARD
+    amount: 1
+TDDSCQ:
+  category: s3_kwsc
+  item-name: "&6铜锭生成器"
+  item-lore:
+  - ""
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: TDSCQ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: COPPER_INGOT
+      amount: 1
+  output:
+    tick-rate: 12
+    type: SLIMEFUN
+    id: COPPER_INGOT
+    amount: 1
+XDSCQ:
+  category: s3_kwsc
+  item-name: "&6锡锭生成器"
+  item-lore:
+  - ""
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: TIN_INGOT
+      amount: 1
+  output:
+    tick-rate: 12
+    type: SLIMEFUN
+    id: TIN_INGOT
+    amount: 1
+YDSCQ:
+  category: s3_kwsc
+  item-name: "&6银锭生成器"
+  item-lore:
+  - ""
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SILVER_INGOT
+      amount: 1
+  output:
+    tick-rate: 12
+    type: SLIMEFUN
+    id: SILVER_INGOT
+    amount: 1
+QDSCQ:
+  category: s3_kwsc
+  item-name: "&6铅锭生成器"
+  item-lore:
+  - ""
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: LEAD_INGOT
+      amount: 1
+  output:
+    tick-rate: 12
+    type: SLIMEFUN
+    id: LEAD_INGOT
+    amount: 1
+LDSCQ:
+  category: s3_kwsc
+  item-name: "&6铝锭生成器"
+  item-lore:
+  - ""
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ALUMINUM_INGOT
+      amount: 1
+  output:
+    tick-rate: 12
+    type: SLIMEFUN
+    id: ALUMINUM_INGOT
+    amount: 1
+XYIDSCQ:
+  category: s3_kwsc
+  item-name: "&6锌锭生成器"
+  item-lore:
+  - ""
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: ZINC_INGOT
+      amount: 1
+  output:
+    tick-rate: 12
+    type: SLIMEFUN
+    id: ZINC_INGOT
+    amount: 1
+MDSCQ:
+  category: s3_kwsc
+  item-name: "&6镁锭生成器"
+  item-lore:
+  - ""
+  block-type: IRON_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: BLISTERING_INGOT_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: WITHER_PROOF_OBSIDIAN
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: MAGNESIUM_INGOT
+      amount: 1
+  output:
+    tick-rate: 12
+    type: SLIMEFUN
+    id: MAGNESIUM_INGOT
+    amount: 1
+4KJDSCQ:
+  category: s3_kwsc
+  item-name: "&64k金锭生成器"
+  item-lore:
+  - ""
+  block-type: GOLD_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_GOLD
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: GOLD_4K
+      amount: 1
+  output:
+    tick-rate: 16
+    type: SLIMEFUN
+    id: GOLD_4K
+    amount: 1
+GSCQ:
+  category: s3_kwsc
+  item-name: "&6硅生成器"
+  item-lore:
+  - ""
+  block-type: QUARTZ_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_QUARTZ
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: SILICON
+      amount: 1
+  output:
+    tick-rate: 14
+    type: SLIMEFUN
+    id: SILICON
+    amount: 1
+TGSSSSCQ:
+  category: s3_kwsc
+  item-name: "&6碳生成器"
+  item-lore:
+  - ""
+  block-type: COAL_BLOCK
+  item-amount: 1
+  stats:
+    energy-consumption: 1
+    energy-buffer: 1
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: ORE_GENERATOR_COAL
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: CARBON
+      amount: 1
+  output:
+    tick-rate: 8
+    type: SLIMEFUN
+    id: CARBON
+    amount: 1
